@@ -2,6 +2,10 @@
 
 API REST construída com NestJS e MongoDB para registrar receitas e despesas e consultar o histórico financeiro com métricas consolidadas. O projeto trata de organização financeira cotidiana, letramento financeiro e consumo responsável, em diálogo com os ODS 1 e 12.
 
+## Repositório
+
+Código-fonte disponível em: https://github.com/faperezprogramas/api-controle-financeiro
+
 ## Tecnologias
 
 - NestJS e TypeScript
